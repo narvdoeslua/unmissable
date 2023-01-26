@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/narvdoeslua/unmissable/main/20fov"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/narvdoeslua/unmissable/main/20fov%20close"))()
 Aiming.TeamCheck(false)
 
 -- // Services
